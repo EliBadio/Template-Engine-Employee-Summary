@@ -1,11 +1,15 @@
+body {
+background-color: rgb(201, 190, 171);
+
+}
 .manager {
-    background-color: green;
+    background-color: rgb(62, 87, 62);
 }
 
 .engineer {
-    background-color: yellow;
+    background-color: rgb(114, 114, 101);
 }
 
 .intern {
-    background-color: blue;
+    background-color: rgb(77, 77, 156);
 }

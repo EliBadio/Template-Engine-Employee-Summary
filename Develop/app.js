@@ -51,7 +51,7 @@ const createManager = () => {
 }
 
 const addTeamMemeber = () => {
-    // Ask what who to add
+    // Ask user who would you like to add
     inquirer.prompt([
         {
             type: 'list',
